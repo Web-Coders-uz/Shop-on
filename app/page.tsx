@@ -1,5 +1,4 @@
-export default function Home() {
-  return (
-   <main></main>
-  );
-}
+const Home: React.FC = () => {
+  return <main></main>;
+};
+export default Home;
