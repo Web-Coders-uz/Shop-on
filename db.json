@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Apple iPhone 13 Pro Max 128GB Gold",
+            "location": "Skopje",
+            "price": "1.040,50",
+            "logo": "/iphone.png",
+            "category": "phones"
+        },
+        {
+          "id": 2,
+          "name": "Realme Buds Air 2",
+          "location": "Gostivar",
+          "price": "33,05",
+          "logo": "/airpods.png",
+          "category": "airpods"
+        },
+        {
+          "id": 3,
+          "name": "Huawei Honor Watch ES- Smartwatch",
+          "location": "Kicevo",
+          "price": "47,93",
+          "logo": "/watch.png",
+          "category": "watches"
+        },
+        {
+          "id": 4,
+          "name": "Sonos Move Wifi White",
+          "location": "Ohrid",
+          "price": "309,92",
+          "logo": "/wifi.png",
+          "category": "wifi"
+        }
+    ]
+}
